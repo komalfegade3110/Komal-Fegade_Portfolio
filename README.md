@@ -29,17 +29,23 @@
 <body>
 
 <header>
-  <h1>Hello, I'm Komal 👋</h1>
-  <p>Web Developer</p>
+  <h1>Hello, I'm Komal Fegade 👋</h1>
+  
 </header>
 
 <section>
   <h2>About Me</h2>
   <p>I am a student pursuing B.Tech in Artificial Intelligence and Data Science.</p>
 </section>
+<section>
+  <h2>✨Project</h2>
+  <ul>
+   <li>Build a prototype</li>
+  </ul>
+  </section>
 
 <section>
-  <h2>Skills</h2>
+  <h2> 🚀Skills</h2>
   <ul>
     <li>Python</li>
     <li>C++</li>
@@ -50,8 +56,8 @@
 
 
 <section>
-  <h2>Contact</h2>
-  <p>Email: your@email.com</p>
+  <h2>📞Contact</h2>
+  <p>Email: komalfegade3110@gmail.com</p>
 </section>
 
 </body>
